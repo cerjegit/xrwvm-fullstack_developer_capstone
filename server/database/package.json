@@ -7,9 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "engines": {
-    "node": "8"
-  },
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",    
